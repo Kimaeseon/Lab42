@@ -20,3 +20,4 @@ public class main {
  	System.out.printf("Product %s, price %4.1f and balance %d pcs", name,price,amount);  
  	} 
  } 
+//Autor:Dahae Choi
